@@ -1,1 +1,1 @@
-# hackathon2020
+# magikCartGenerator
